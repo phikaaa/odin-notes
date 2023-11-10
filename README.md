@@ -15,19 +15,18 @@
 ### Everyday tools
 Google, editor, command line, stack overflow, git, github
 
-## Motivation and Mindset
+### Motivation and Mindset
 discord: odin-success-stories
 
 ### Growth mindset
 Strong impact on chance of success
 
-fixed mindset - first try fails, never will. 
-
-growth mindset - i can get better at anything with effort and persistence.
+Fixed mindset: first try fails, never will. 
+Growth mindset: get better at anything with effort and persistence.
 
 Struggling = growth
 
-Questiong abilities? reflect on previous successes.
+Questiong abilities? reflect on past success.
 
 ### learning process
 focus mode - concious focusing, learning, reading, watching
