@@ -38,18 +38,17 @@ Stuck? take a break (let subconcious make connections). Put effort into problem 
 
 Understand it, practice it, and finally teach it
 
-### AI Code Generation
+### AI code generation
 - Large language models (LLM)
 - Generative AIs code completion (Github Copilot)
 - Code generation (ChatGPT)
 
-Can result in knowledge gaps.
-1. learners miss the why and how
-2. delays skill of asking questions to people
-3. also skill of talking about your code
-4. beginners unsure if output is good or bad
+Cons:
+1. Learners miss the why and how
+2. Delays skill of asking good questions to people and talking about your code
+4. Needs scrunity. Beginners unsure if output is good or bad
 
-AI tools not recommended for learning
+Not recommended for learning. Can result in knowledge gaps.
 
 ### Manage study time
 Consistency over working once/twice a week.
@@ -58,7 +57,7 @@ Study everyday, specific time with specific goal.
 
 Stress anxiety do not help learning. Relax, don't worry, enjoy the ride, learn.
 
-### pitfalls to avoid
+### Pitfalls to avoid
 -procrastination > pomodoro
 
 25 minutes, 5 minute break
