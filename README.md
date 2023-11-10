@@ -15,37 +15,35 @@
 ### Everyday tools
 Google, editor, command line, stack overflow, git, github
 
-### Motivation and Mindset
-discord: odin-success-stories
+### Motivation
+`discord: odin-success-stories`
 
 ### Growth mindset
 Strong impact on chance of success
 
 Fixed mindset: first try fails, never will. 
+
 Growth mindset: get better at anything with effort and persistence.
 
 Struggling = growth
 
 Questiong abilities? reflect on past success.
 
-### learning process
-focus mode - concious focusing, learning, reading, watching
+### Learning process
+Focus mode: concious focusing, learning, reading, watching
 
-diffuse mode - subconcious (dishes, exercise, sleeping). in this state, mind connects new material
+Diffuse mode: subconcious (dishes, exercise, sleeping). in this state, mind connects new material
 
-when stuck, take a break, let subconcious make connections. put effort into problem first, then break
+Stuck? take a break (let subconcious make connections). Put effort into problem first, then break
 
-understand it, practice it, and finally teach it
+Understand it, practice it, and finally teach it
 
-### when stuck
-google, take a break (diffuse mode), discord chat
+### AI Code Generation
+- Large language models (LLM)
+- Generative AIs code completion (Github Copilot)
+- Code generation (ChatGPT)
 
-### ai code generation
-large language models (LLM)
-generative AIs code completion (Github Copilot)
-code generation (chatGPT)
-
-Can result in knowledge gaps:
+Can result in knowledge gaps.
 1. learners miss the why and how
 2. delays skill of asking questions to people
 3. also skill of talking about your code
@@ -53,11 +51,12 @@ Can result in knowledge gaps:
 
 AI tools not recommended for learning
 
-### manage study time
-consistency over working once/twice a week.
-study everyday, specific time with specific goal will make progress
+### Manage study time
+Consistency over working once/twice a week.
 
-stress anxiety do not help learning. relax, enjoy the ride, dont worry, learn.
+Study everyday, specific time with specific goal.
+
+Stress anxiety do not help learning. Relax, don't worry, enjoy the ride, learn.
 
 ### pitfalls to avoid
 -procrastination > pomodoro
