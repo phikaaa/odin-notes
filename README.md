@@ -1,23 +1,21 @@
 # odin-notes
 
-## Web Development
 
 ### Career types
-Large tech > tough hiring, great pay/benefits
-Startups > "wild west", longer hours, equity, unique environment 
+- Large tech: tough hiring, great pay/benefits
 
-Freelance > custom hourly wage, flex schedule,  finding work, billing. Strong people skills
+- Startups: "wild west", longer hours, equity, unique environment 
 
-Web consultancy > focus more on code, good work/life balance
+- Freelance > custom hourly wage, flex schedule, more time finding work & billing. Need strong people skills
 
-Large, older companies > large tech but slow
+- Web consultancy: focus more on code, good work/life balance
+
+- Large, older companies: large tech but slower
 
 ### Everyday tools
 Google, editor, command line, stack overflow, git, github
 
 ## Motivation and Mindset
-
-### Motivation
 discord: odin-success-stories
 
 ### Growth mindset
