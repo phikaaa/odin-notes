@@ -60,8 +60,8 @@ Stress anxiety do not help learning. Relax, don't worry, enjoy the ride, learn.
 ## Pitfalls to avoid
 ### Procrastination
 
-Pomodoro: 25 minutes, 5 minute break
-Four 25 minutes, 15-30 minute break
+Pomodoro: 25 minutes, 5 minute break<br/>
+Four 25 minutes, 15-30 minute break<br/>
 [tomato timer](https://www.toptal.com/project-managers/tomato-timer)
 
 ### No breaks
