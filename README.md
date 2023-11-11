@@ -58,20 +58,24 @@ Study everyday, specific time with specific goal.
 Stress anxiety do not help learning. Relax, don't worry, enjoy the ride, learn.
 
 ## Pitfalls to avoid
-- Procrastination
+### Procrastination
 
-> Pomodoro
-25 minutes, 5 minute break
+Pomodoro: 25 minutes, 5 minute break
 Four 25 minutes, 15-30 minute break
 [tomato timer](https://www.toptal.com/project-managers/tomato-timer)
 
-- No breaks
-leads to burnout, lower productivity
+### No breaks
+Burnout, lower productivity
 
-useful breaks: music, journal, doodle, meditate, quick game, short walk outside
+**Useful breaks:** music, journal, doodle, meditate, quick game, short walk outside
 
-- email, social media notifcations break focus and cause procrastination. avoid during study time > turn off notifcations, add blocker
+### Email, social media
+Avoid during study time. Notifcations off, add blocker
 
-- physical distraction like tv or people talking > find quiet place, noise cancelling, public and university libraries. surroundings instill sense of productivity
+### Physical distraction
+TV or people talking
 
--counter productive note taking > make notes that serve as prompts for further research
+Quiet, noise cancelling, public/university libraries - instill sense of productivity
+
+### Counter productive note taking
+Better: notes that prompt for further research
