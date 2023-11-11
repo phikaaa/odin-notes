@@ -79,3 +79,36 @@ Quiet, noise cancelling, public/university libraries - instill sense of producti
 
 ### Counter productive note taking
 Better: notes that prompt for further research
+
+## Before asking for help
+Stuck? Break. Rubber duck debugging, Google, Discord search function
+
+## Getting help
+- Just ask
+- Provide code and context (see below)
+- Readable format (backticks)
+- Ask about the problem, not solution
+- Share screenshot
+- [Replit](https://replit.com/)
+
+Context:
+What do you think the problem is?
+What exactly do you want to happen?
+What is actually happening?
+How did you get there?
+What have you tried so far?
+
+Completely stuck? Ask where to start and what to research to get started
+
+## Helping others
+1. Guide instead of answer (probing questions)
+2. Help when certain 
+3. One person at a time
+4. When there's free time
+5. Adapt expectations to their level
+6. Ignore googleable questions
+7. Answer question before raising other problems
+8. Try debugger
+9. Admit if problem is beyond your knowledge
+10. Patience
+11. Frustrated? Politely duck out.
